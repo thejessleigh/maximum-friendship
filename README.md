@@ -21,6 +21,7 @@ a list of shitpost project ideas for friends to accomplish together
 - if you're working on a project move it below and link the repo. maybe tag your friends? whatever
 
 ## projects in progress
+- [larp resume site](https://github.com/stephmarx/larp-resume-site) - project is largely dead. Maybe we should revive or restart?
 
 ## completed projects
 - [make a list of projects we could do together](https://github.com/thejessleigh/maximum-friendship)

@@ -18,6 +18,9 @@ a list of shitpost project ideas for friends to accomplish together
 - Joy Button: When you're sad, hit the joy button to get a random picture of a fuzzy happy creature
 - String substitution chrome extension - like millinneals to snake people but dumber. "Avocado toast" to "the blood of infants"? "Tide pods" to "venom candy"?
 - Lorem Sheepsum: a lorem ipsum generator where every word means sheep in a different language. Supports non-ascii characters.
+- Janelle Monae is bae - browser extension (or something) that replaces all images on a page with images of Janelle Monae
+- An sentiment analysis script that returns wrong answers only for a given chunk of text.
+- Sudden death terminal theme - bash script that activates SUDDEN DEATH MODE where everything is *intense colors* for like, running unit tests and stuff? idk
 
 ## contributing:
 - if your change is an addition, immediately merge your PR.

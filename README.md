@@ -1,6 +1,8 @@
 # maximum friendship
 a list of shitpost project ideas for friends to accomplish together
 
+![](https://media.giphy.com/media/MaMBAXPQix88o/giphy.gif)
+
 ## friends include:
 - [thejessleigh](https://github.com/thejessleigh/)
 - [stephmarx](https://github.com/stephmarx)

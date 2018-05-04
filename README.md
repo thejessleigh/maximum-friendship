@@ -10,6 +10,7 @@ a list of shitpost project ideas for friends to accomplish together
 - [sarahdesoto](https://github.com/sarahdesoto)
 - [cmho](https://github.com/cmho)
 - [AdiraSlat](https://github.com/AdiraSlat)
+- [korey-enright](https://github.com/korey-enright)
 
 ## project ideas:
 - a map of UFO sightings using [this UFO data](http://www.nuforc.org/webreports.html)

@@ -10,3 +10,7 @@ a list of shitpost project ideas for friends to accomplish together
 
 ## project ideas:
 - a map of UFO sightings using [this UFO data](http://www.nuforc.org/webreports.html)
+
+## contributing:
+if your change is an addition, immediately merge your PR.
+if your change deletes or edits something that you didn't write, wait for someone else to take a look at your PR idk

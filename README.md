@@ -23,4 +23,4 @@ a list of shitpost project ideas for friends to accomplish together
 ## projects in progress
 
 ## completed projects
-- ]make a list of projects we could do together](https://github.com/thejessleigh/maximum-friendship)
+- [make a list of projects we could do together](https://github.com/thejessleigh/maximum-friendship)

@@ -14,6 +14,8 @@ a list of shitpost project ideas for friends to accomplish together
 ## project ideas:
 - a map of UFO sightings using [this UFO data](http://www.nuforc.org/webreports.html)
 - Chrome plugin that extracts the actual recipe from recipe sites so you don't have to scroll through 1k words of personal essay to get the goods
+- Joy Button: When you're sad, hit the joy button to get a random picture of a fuzzy happy creature
+- String substitution chrome extension - like millinneals to snake people but dumber. "Avocado toast" to "the blood of infants"? "Tide pods" to "venom candy"?
 
 ## contributing:
 - if your change is an addition, immediately merge your PR.
